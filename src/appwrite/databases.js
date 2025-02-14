@@ -1,6 +1,6 @@
 import { databases, collections } from "./config";
 import { ID } from "appwrite";
-import { Appwrite } from 'appwrite';
+// import { Appwrite } from 'appwrite';
  
 const db = {};
  
